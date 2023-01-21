@@ -1,0 +1,58 @@
+{
+  "tradingName": "Seth Williams",
+  "title": "Managing Director",
+  "organizationChildRelationship": [
+    {
+      "tradingName": "Ramon Harris",
+      "title": "Regional Director",
+      "organizationChildRelationship": [
+        {
+          "tradingName": "Parks",
+          "title": "CEO"
+        },
+        {
+          "tradingName": "Isabelle Kaif",
+          "title": "CFO"
+        }
+      ]
+    },
+    {
+      "tradingName": "Dan Morgan",
+      "title": "Regional Director",
+      "organizationChildRelationship": [
+        {
+          "tradingName": "Ivan Toney",
+          "title": "CEO",
+          "organizationChildRelationship": [
+            {
+              "tradingName": "Brian Walker",
+              "title": "Designation"
+            },
+            {
+              "tradingName": "Vera Martinez",
+              "title": "Designation"
+            }
+          ]
+        },
+        {
+          "tradingName": "Sabrina Francis",
+          "title": "CFO"
+        }
+      ]
+    },
+    {
+      "tradingName": "Stella Nelson",
+      "title": "Regional Director",
+      "organizationChildRelationship": [
+        {
+          "tradingName": "Miles Clark",
+          "title": "Chief Administrator"
+        },
+        {
+          "tradingName": "Angela",
+          "title": "Chief Administrator"
+        }
+      ]
+    }
+  ]
+}
